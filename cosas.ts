@@ -14,6 +14,7 @@ function getByid(id: number){
    return p.id == id;
   });
 
+  
   return peliEncontrada;
 
 }
