@@ -6,4 +6,6 @@ function main(){
   console.log(getByid(2));
 }
 
+console.log("hola");
+
 main();
